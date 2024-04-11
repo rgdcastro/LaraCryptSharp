@@ -225,3 +225,6 @@ ModelManifest.xml
 
 # Ignore nvim mergetool files
 *.orig
+
+# Ignore DS_Store files
+.DS_Store
