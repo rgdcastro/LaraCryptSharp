@@ -17,7 +17,7 @@ To use LaraCryptSharp in your project, include the `LaraCryptSharp` namespace an
 
 ### Installation
 
-Currently, you need to clone the repository or copy the code directly into your project as LaraCryptSharp is not yet available as a package.
+LaraCryptSharp is available for download as a package from NuGet, allowing for easy integration into your projects. Alternatively, you can clone the repository or directly copy the code into your project if needed.
 
 ### Usage
 
