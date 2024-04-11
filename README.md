@@ -33,7 +33,7 @@ string encryptedPayload = Cipher.Encrypt(plainText, key);
 Console.WriteLine($"Encrypted Payload: {encryptedPayload}");
 ```
 
-#### Encrypting a String
+#### Decrypting a String
 
 ```csharp
 using LaraCryptSharp;
