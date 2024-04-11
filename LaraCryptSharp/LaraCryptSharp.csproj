@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>LaraCryptSharp</Title>
+        <Authors>Raymond De Castro</Authors>
+        <Description>LaraCryptSharp is a .NET library designed to facilitate seamless encryption and decryption of strings compatible with Laravel's encryption mechanisms. It aims to provide an easy-to-use interface for .NET applications that need to interact with data encrypted by Laravel applications, or vice versa.</Description>
+        <PackageProjectUrl>https://github.com/rgdcastro/LaraCryptSharp</PackageProjectUrl>
+        <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+        <PackageIcon>LaraCryptSharpLogo.png</PackageIcon>
+        <RepositoryUrl>https://github.com/rgdcastro/LaraCryptSharp</RepositoryUrl>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Update="LaraCryptSharpLogo.png">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+      </None>
+      <None Include="..\LaraCryptSharpLogo.png">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+        <Link>LaraCryptSharpLogo.png</Link>
+      </None>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaraCryptSharp", "LaraCryptSharp\LaraCryptSharp.csproj", "{96C54EBB-452C-4366-911F-5CBF065BF5A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaraCryptSharp.Tests", "LaraCryptSharp.Tests\LaraCryptSharp.Tests.csproj", "{B1B72AB1-478B-4598-B32D-DF1F3838933C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96C54EBB-452C-4366-911F-5CBF065BF5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C54EBB-452C-4366-911F-5CBF065BF5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C54EBB-452C-4366-911F-5CBF065BF5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C54EBB-452C-4366-911F-5CBF065BF5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B72AB1-478B-4598-B32D-DF1F3838933C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B72AB1-478B-4598-B32D-DF1F3838933C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B72AB1-478B-4598-B32D-DF1F3838933C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B72AB1-478B-4598-B32D-DF1F3838933C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
