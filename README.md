@@ -1,6 +1,6 @@
 # LaraCryptSharp
 
-[![NuGet](https://img.shields.io/nuget/v/LaraCryptSharp.svg?maxAge=3600)](https://www.nuget.org/packages/LaraCryptSharp/)
+[![NuGet](https://img.shields.io/nuget/v/LaraCryptSharp?cacheSeconds=3600)](https://www.nuget.org/packages/LaraCryptSharp/)
 [![Build status](https://github.com/rgdcastro/LaraCryptSharp/actions/workflows/build-and-test.yml/badge.svg?branch=main)](https://github.com/rgdcastro/LaraCryptSharp/actions/workflows/build-and-test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
